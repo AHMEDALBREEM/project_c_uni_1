@@ -1,6 +1,0 @@
-#ifndef RESOURCE_H_INCLUDED
-#define RESOURCE_H_INCLUDED
-#define MAINICON      101
-
-
-#endif // RESOURCE_H_INCLUDED`
