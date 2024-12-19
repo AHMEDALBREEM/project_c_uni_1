@@ -1,0 +1,5 @@
+ the flight id : 110 the flight from : DHAKA where : CAIRO the date of the ticket : 12/12/2023 the price of the ticket : 100 have a covied ceratificate : 1 and must contain visa before traveling : 1 
+ the flight id : 318 the flight from : DHAKA where : CAIRO the date of the ticket : 10/11/2023 the price of the ticket : 200 have a covied ceratificate : 1 and must contain visa before traveling : 1 
+ the flight id : 214 the flight from : DHAKA where : ROME the date of the ticket : 10/10/2023 the price of the ticket : 300 have a covied ceratificate : 1 and must contain visa before traveling : 1 
+ the flight id : 201 the flight from : DHAKA where : CAIRO the date of the ticket from : 1/10/2023 to : 20/10/2023 the price of the ticket : 400 have a covied ceratificate : 1 and must contain visa before traveling : 1 
+ the flight id : 207 the flight from : DHAKA where : DUBAI the date of the ticket from : 1/09/2023 to : 20/10/2023 the price of the ticket : 600 have a covied ceratificate : 1 and must contain visa before traveling : 1 
